@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python ./src/process_wiki.py ./data/zhwiki-latest-pages-articles.xml.bz2  wiki.cn.text
